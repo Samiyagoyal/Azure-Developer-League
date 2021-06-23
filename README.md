@@ -8,7 +8,7 @@
   - [VOLUNTEERING OPPORTUNITIES](#volunteering-opportunities)
   - [RECOMMENDATION SYSTEM FOR THE ORGANIZATIONS](#recommendation-system-for-the-organizations)
   - [RECOMMENDING NGOs TO COLLABORATE IN EVENTS](#recommending-ngos-to-collaborate-in-events)
-  - [AUDIENCE ENGAGEMENT](#audience-engagement)
+  - [CUSTOMER ENGAGEMENT](#customer-engagement)
   
 ## ABOUT
 
@@ -66,7 +66,7 @@ Core technologies used model construction and deployment:
      style="width:100%; height:auto; padding-right:55px; margin-left:25px;" />
 
 
-### AUDIENCE ENGAGEMENT
+### CUSTOMER ENGAGEMENT
 Email campaigns play a major role for the organizations to roll out important information about new initiatives or maybe weekly newsletters. 
 
 The portal allows users to schedule marketing campaigns such as email marketing. The organizations can upload all their contacts onto the portal in a CSV file and send out custom designed emails at once to all their contacts. The user just has to fill out a simple form mentioning information like subject, the body of the mail, any images to be included, other attachments etc and then choose from a variety of predesigned templates. The mass mailing can be automated to be sent at a particular time at which the user wants it to be delivered. This feature can help organizations to enhance content marketing and establish their continuous presence.
