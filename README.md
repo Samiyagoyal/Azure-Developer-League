@@ -9,6 +9,11 @@
   - [RECOMMENDATION SYSTEM FOR THE ORGANIZATIONS](#recommendation-system-for-the-organizations)
   - [RECOMMENDING NGOs TO COLLABORATE IN EVENTS](#recommending-ngos-to-collaborate-in-events)
   - [CUSTOMER ENGAGEMENT](#customer-engagement)
+  - [TEAM MANAGEMENT SYSTEM](#team-management-system)
+  - [CALENDAR](#calendar)
+  - [TECHNOLOGIES USED IN THE PROJECT](#technologies-used-in-the-project)
+  - [PACKAGES USED](#packages-used)
+  - [PROPOSED PLAN](#proposed-plan)
   
 ## ABOUT
 
@@ -73,3 +78,58 @@ The portal allows users to schedule marketing campaigns such as email marketing.
 
 <img src="Images/Customer Engagement 1.png"
      style="width:100%; height:auto; padding-right:55px; margin-left:25px;" />
+     
+### TEAM MANAGEMENT SYSTEM
+A systematic approach for managing the work at organisations is made available to the organisations under the “Employees” tab. These features allow efficient agile functionality to get a proper working system for communication between various sub-teams at the same time.
+
+The employees can be added with the help of the “Add Employee” button, where the organisation can add a CSV file having the details of the employees to be added. Upon uploading the file, instantly a list of employees will be displayed there. 
+
+The employee details added are linked to the Projects Tab where the organisations can manage and assign tasks to the employee.
+
+Functionality:
+
+- The user can add sub-tasks under a project and choose the employees to whom the task is to be assigned. 
+- The files and any other attachments related to the task can also be provided to the employees then and there, which on clicking will open on a separate tab, eliminating the need to download the files. Hence, the employees don’t need to use their own storage space for the files.  
+- Any other details or instructions can also be added as comments in the project so that they can easily be noted by the employees. 
+- The employees can submit their work by adding their respective files under the Files Tab under Projects.  
+- The project can then be deleted after it’s done successfully.
+
+The projects can also be added to the calendar to keep track of deadlines and progress.
+
+<img src="Images/Employee Management 1.png"
+     style="width:100%; height:auto; padding-right:55px; margin-left:25px;" />
+
+### CALENDAR
+The portal has an integrated calendar that can help users manage their personal schedules, time and activities. Users can schedule and keep track of their events and upcoming programs. The calendar is colour coded for different categories of work events and can be sort based on the type of event as well as based on time (upcoming or past events).
+
+---
+
+## TECHNOLOGIES USED IN THE PROJECT
+- Figma
+- Bubble
+- Rest API
+- Python
+- Azure - ML Studio
+- SendGrid API
+
+---
+
+## PACKAGES USED
+
+- `numpy==1.20.1`
+- `scikit-learn==0.24.1`
+- `Flask==1.1.2`
+
+---
+
+## PROPOSED PLAN
+
+FOR EXISTING FEATURES
+- Login options and a customized dashboard for volunteers
+- NGO recommendation system to be optimized for real-time recommendations taking into account new organizations
+- Unifying social media platforms, post scheduling
+
+ADDITIONAL FEATURES AS PER SOLUTIONS
+- Volunteering position recommendation system
+- WhatsApp integration (simpler method for nonprofits to receive regular updates - push notifications)     
+     
