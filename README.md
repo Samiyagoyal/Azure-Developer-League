@@ -9,7 +9,7 @@
   - [RECOMMENDATION SYSTEM FOR THE ORGANIZATIONS](#recommendation-system-for-the-organizations)
   - [RECOMMENDING NGOs TO COLLABORATE IN EVENTS](#recommending-ngos-to-collaborate-in-events)
   - [CUSTOMER ENGAGEMENT](#customer-engagement)
-  - [TEAM MANAGEMENT SYSTEM](#team-management-system)
+  - [EMLOYEE MANAGEMENT SYSTEM](#employee-management-system)
   - [CALENDAR](#calendar)
   - [TECHNOLOGIES USED IN THE PROJECT](#technologies-used-in-the-project)
   - [PACKAGES USED](#packages-used)
@@ -79,7 +79,7 @@ The portal allows users to schedule marketing campaigns such as email marketing.
 <img src="Images/Customer Engagement 1.png"
      style="width:100%; height:auto; padding-right:55px; margin-left:25px;" />
      
-### TEAM MANAGEMENT SYSTEM
+### EMPLOYEE MANAGEMENT SYSTEM
 A systematic approach for managing the work at organisations is made available to the organisations under the “Employees” tab. These features allow efficient agile functionality to get a proper working system for communication between various sub-teams at the same time.
 
 The employees can be added with the help of the “Add Employee” button, where the organisation can add a CSV file having the details of the employees to be added. Upon uploading the file, instantly a list of employees will be displayed there. 
