@@ -11,9 +11,9 @@
   - [CUSTOMER ENGAGEMENT](#customer-engagement)
   - [EMLOYEE MANAGEMENT SYSTEM](#employee-management-system)
   - [CALENDAR](#calendar)
-  - [TECHNOLOGIES USED IN THE PROJECT](#technologies-used-in-the-project)
-  - [PACKAGES USED](#packages-used)
-  - [PROPOSED PLAN](#proposed-plan)
+- [TECHNOLOGIES USED IN THE PROJECT](#technologies-used-in-the-project)
+- [PACKAGES USED](#packages-used)
+- [PROPOSED PLAN](#proposed-plan)
   
 ## ABOUT
 
