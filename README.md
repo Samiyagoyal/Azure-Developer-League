@@ -21,7 +21,7 @@ This repository provides code for machine learning based recommendation system  
 
 SocieTree is aimed at becoming a SaaS integrated networking platform to empower nonprofits while redefining the way the social sector functions. The platform would allow nonprofits to hire skilled volunteers, collaborate with similar organizations, manage their employees, and engage with their audiences, thus proving to be a one-stop destination for all their requirements.
 
-On visiting the [website], click on Nonprofit Login in the header. The homepage offers the basic details about the platform and the features they will have access to after onboarding. The organizations can use the non-profit login to acquire the Dashroot controls. The platform addresses the management and networking issues of non-profit organizations by setting up a social network for them to maintain their web presence, hire skilled volunteers, form partnerships with organizations having similar interests and much more.
+On visiting the [https://www.societree.xyz] (Email - azure@societree.net, Password - azure) , click on Nonprofit Login in the header. The homepage offers the basic details about the platform and the features they will have access to after onboarding. The organizations can use the non-profit login to acquire the Dashroot controls. The platform addresses the management and networking issues of non-profit organizations by setting up a social network for them to maintain their web presence, hire skilled volunteers, form partnerships with organizations having similar interests and much more.
 
 ## PROJECT FEATURES
 
